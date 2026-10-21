@@ -1,3 +1,0 @@
-O git init cria um repositório Git numa pasta.
-O git add prepara as alterações e o git commit regista-as.
-O git push envia os commits para o GitHub.
