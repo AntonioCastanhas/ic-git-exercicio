@@ -1,4 +1,4 @@
-Projeto de IC
+Projeto de Introdução à Computação - Versão A
 
 exercicio de ic inviado pelo stor Rafael David
 
